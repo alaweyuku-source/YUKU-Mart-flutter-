@@ -31,6 +31,5 @@ jobs:
         with:
           name: YUKU-Mart-APK
           path: build/app/outputs/flutter-apk/app-release.apk
-          setup GitHub actions for apk
           
           
